@@ -1,4 +1,4 @@
-# wad2023-lab13-frontend
+# WAD-lab13-frontend
 
 ## Project setup
 ```
